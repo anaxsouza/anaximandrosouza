@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anax_souza" target="blank"><img src="https://img.shields.io/twitter/follow/anax_souza?logo=twitter&style=for-the-badge" alt="anax_souza" /></a> </p>
 
-- 🔭 I’m currently studing at **UFRJ/COPPE as Graduate Student**
+- 🔭 I’m currently studying at **UFRJ/COPPE as Graduate Student**
 
 - 🌱 I’m currently learning **AI, Data Science and Scientific Programming Languages**
 
