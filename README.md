@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anaximandro Souza</h1>
 <h3 align="center">A science lover and researcher in scietific machine learning.</h3>
 
-- 🔭 I’m currently studying at [UFRJ/COPPE as Graduate Student](https://www.coppe.ufrj.br/)
+- 🔭 I’m currently studying at [UFRJ/COPPE as PhD Student](https://www.coppe.ufrj.br/)
 
 - 🌱 I’m currently learning **Jax and Julia**
 
